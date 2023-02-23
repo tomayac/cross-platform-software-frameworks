@@ -2,7 +2,7 @@
 
 The other day, I came across [Elk Native](https://github.com/elk-zone/elk-native), a native version of the rather excellent, if early-stage, Mastodon Web client [Elk](https://elk.zone/). To be honest, I wondered why they would build a native version, if the Web client works so well. I downloaded the 7.8 MB [`Elk_0.4.0_macos_x86_64.dmg`](https://github.com/elk-zone/elk-native/releases/download/elk-native-v0.4.0/Elk_0.4.0_macos_x86_64.dmg) and immediately ran into [Issue #74](https://github.com/elk-zone/elk-native/issues/74), that is, a blank screen.
 
-To better understand the motiviation behind the Elk Native developers, I tried the same for one of my apps, with different frameworks. This repository contains the same PWA, [SVGcode](https://svgco.de/), wrapped five times with different cross platform software frameworks.
+To better understand the motivation behind the Elk Native developers, I tried the same for one of my apps, with different frameworks. This repository contains the same PWA, [SVGcode](https://svgco.de/), wrapped five times with different cross platform software frameworks.
 
 ## Running the apps
 
