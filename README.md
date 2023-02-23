@@ -21,11 +21,16 @@ npm start
 
 ## Screenshots
 
-- ![](./screenshots/svgcode-electron.png)
-- ![](./screenshots/svgcode-nw_js.png)
-- ![](./screenshots/svgcode-tauri.png)
-- ![](./screenshots/svgcode-neutralinojs.png)
-- ![](./screenshots/svgcode-gluon.png)
+- Electron.js
+  ![](./screenshots/svgcode-electron.png)
+- NW.js
+  ![](./screenshots/svgcode-nw_js.png)
+- Tauri
+  ![](./screenshots/svgcode-tauri.png)
+- Neutralinojs
+  ![](./screenshots/svgcode-neutralinojs.png)
+- Gluon
+  ![](./screenshots/svgcode-gluon.png)
 
 ## Issues
 
@@ -117,7 +122,8 @@ Clicking the **Copy SVG** button causes an `Uncaught (in promise) ReferenceError
 Clicking the **Save SVG** button does nothing.
 
 ```bash
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko)```
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko)
+```
 
 ### Neutralinojs
 
@@ -130,6 +136,46 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik
 ### Gluon
 
 Fails with a `RangeError Failed to execute 'createImageBitmap' on 'Window': The crop rect width is 0.`
+
+```json
+{
+  "architecture": "arm",
+  "bitness": "64",
+  "brands": [
+    {
+      "brand": "Chromium",
+      "version": "110"
+    },
+    {
+      "brand": "Not A(Brand",
+      "version": "24"
+    },
+    {
+      "brand": "Google Chrome",
+      "version": "110"
+    }
+  ],
+  "fullVersionList": [
+    {
+      "brand": "Chromium",
+      "version": "110.0.5481.177"
+    },
+    {
+      "brand": "Not A(Brand",
+      "version": "24.0.0.0"
+    },
+    {
+      "brand": "Google Chrome",
+      "version": "110.0.5481.177"
+    }
+  ],
+  "mobile": false,
+  "model": "",
+  "platform": "macOS",
+  "platformVersion": "13.3.0",
+  "uaFullVersion": "110.0.5481.177"
+}
+```
 
 ## License
 
