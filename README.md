@@ -141,7 +141,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik
 
 Clicking the **Open Image** button does nothing. Clicking the **Save SVG** button does nothing.
 
-```
+```bash
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko)
 ```
 
