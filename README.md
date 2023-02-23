@@ -203,6 +203,10 @@ npm run build
 
 I didn't even look into the signing part, which is required for proper distribution.
 
+## Conclusions
+
+I'm not sure what to make of this. To be honest, I didn't see anything that would be more compelling than just browsing to [svgco.de](https://svgco.de/), clicking **Install**, and be good. But then I obviously didn't tap into any of the native features that cross platform frameworks allow you to do. I only noticed how features that I get for free in the Web version, like [Window Controls Overlay](https://developer.mozilla.org/en-US/docs/Web/API/Window_Controls_Overlay_API) or [File Handling](https://developer.chrome.com/en/articles/file-handling/) were broken. But again, I may just be holding these frameworks wrong. For now, it was a worthwhile exercise, but I think I'll stick to the Web.
+
 ## License
 
 Apache 2.0
